@@ -1,0 +1,16 @@
+Package: RProjectSetup
+Title: R Project Setup
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jared",
+           family = "Felice",
+           role = c("aut", "cre"),
+           email = "fjared.felice@icloud.com")
+Description: Create a basic project structure for RStudio projects.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Imports: 
+  here
